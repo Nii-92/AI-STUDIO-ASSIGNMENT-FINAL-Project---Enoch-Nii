@@ -1,6 +1,6 @@
 B143 AI STUDIO, instructions followed per assesment brief.
 
-Cartpole Game
+Cartpole Game, Rules and Instructions
 
 Individual final project for AI STUDIO
 
