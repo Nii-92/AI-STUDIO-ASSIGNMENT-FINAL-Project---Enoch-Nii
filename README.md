@@ -8,7 +8,7 @@ Individual final project for AI STUDIO
 
 Clone the repository: https://github.com/Nii-92/AI-STUDIO-ASSIGNMENT-FINAL-Project---Enoch-Nii
 
-my reference list(OpenAI Gym Documentation: https://www.gymlibrary.ml/
+Sources: my reference list(OpenAI Gym Documentation: https://www.gymlibrary.ml/
 
 and 
 
